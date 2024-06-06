@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kuhitjeetaray
-- 👀 I’m interested in Web devlopment , c++
+- 👀 I’m interested in Web devlopment , java
 - 🌱 Constantly learning and exploring new technologies 
 - 📫 Email me at : raykuhi68@gmail.com
 
